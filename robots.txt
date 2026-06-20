@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xx2j20.com/sitemap.xml
